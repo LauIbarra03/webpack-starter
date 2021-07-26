@@ -3,6 +3,6 @@ import { saludar } from './JS/funciones.js';// busca por defecto un js, en las l
 import './styles.css';
 
 
-const nombre = 'Laucha';
+const nombre = 'Puto';
 
 saludar(nombre);
